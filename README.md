@@ -13,8 +13,8 @@ This is a simple node package to test!
 
 ```js
     // import the class into the component
-    import DefaultName from "gcamps";
+    import addText from "gcamps";
 
-    // Add DefaultName
-    <DefaultName/>
+    // Add the function and pass in a string!
+    addText()
 ```
