@@ -1,5 +1,5 @@
 {
-  "name": "test-package",
+  "name": "gcamps",
   "version": "1.0.0",
   "description": "This is a test, the package will install a react class",
   "main": "index.js",
