@@ -1,6 +1,6 @@
 const React = require("react");
 
-const TestClass = class NodeModuleClass extends React.Component {
+export default class NodeModuleClass extends React.Component {
     render(){
         return (
             <div>
@@ -9,5 +9,3 @@ const TestClass = class NodeModuleClass extends React.Component {
         );
     }
 };
-
-module.exports = TestClass;

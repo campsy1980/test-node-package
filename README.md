@@ -1,28 +1,20 @@
-Test Node Package For CWC
+Test Node Package
 =========
 
-This will create a simple react class that can be exported
+This is a simple node package to test!
 
 ## Installation
 
 ```shell
-    npm install cwctest --save
+    npm install gcamps --save
 ```
 
 ## Usage
 
 ```js
     // import the class into the component
-    import {}
+    import DefaultName from "gcamps";
 
-    // script to be imported
-    export default class NodeModuleClass React.Component{
-        render(){
-            return (
-                <div>
-                    <p>This has been imported via a custom node Module!</p>
-                </div>
-            );
-        }
-    };
+    // Add DefaultName
+    <DefaultName/>
 ```

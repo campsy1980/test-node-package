@@ -1,12 +1,10 @@
 {
   "name": "gcamps",
-  "version": "1.0.0",
-  "description": "This is a test, the package will install a react class",
+  "version": "1.0.1",
+  "description": "Test node module",
   "main": "index.js",
   "keywords": [
-    "React Component",
-    "React",
-    "React Class"
+    "Test node module"
   ],
   "author": "Gareth Camps <gareth.camps@itcuk.com> (http://itcuk.com)",
   "license": "MIT",
